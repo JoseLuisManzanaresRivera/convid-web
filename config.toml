@@ -1,12 +1,12 @@
 theme = "hugo-now-ui"
-baseurl = "https://temuco2019.netlify.com/"
+baseurl = "https://temuco2019.netlify.com"
 languageCode = "en-us"
 title = "Now UI Kit"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 #enableGitInfo = true
-publishDir = "../public"
+publishDir = "./public"
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"

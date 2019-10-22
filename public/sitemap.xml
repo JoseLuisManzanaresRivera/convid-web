@@ -3,102 +3,102 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/hugo-now-ui/2017/11/29/example-post/</loc>
+    <loc>/2017/11/29/example-post/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-now-ui/2016/12/30/a-plain-markdown-post/</loc>
+    <loc>/2016/12/30/a-plain-markdown-post/</loc>
     <lastmod>2016-12-30T21:49:57-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-now-ui/2015/07/23/hello-r-markdown/</loc>
+    <loc>/2015/07/23/hello-r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-now-ui/2015/01/01/lorem-ipsum/</loc>
+    <loc>/2015/01/01/lorem-ipsum/</loc>
     <lastmod>2015-01-01T13:09:13-06:00</lastmod>
   </url>
   
   <url>
-    <loc>/hugo-now-ui/login/</loc>
+    <loc>/login/</loc>
   </url>
   
   <url>
-    <loc>/hugo-now-ui/profile/</loc>
+    <loc>/profile/</loc>
   </url>
   
   <url>
-    <loc>/hugo-now-ui/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/hugo-now-ui/components/</loc>
+    <loc>/components/</loc>
   </url>
   
   <url>
-    <loc>/hugo-now-ui/tags/example/</loc>
+    <loc>/tags/example/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/hugo-now-ui/categories/hugo/</loc>
+    <loc>/categories/hugo/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/hugo-now-ui/</loc>
+    <loc>/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/hugo-now-ui/tags/plot/</loc>
+    <loc>/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/hugo-now-ui/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/hugo-now-ui/categories/r/</loc>
+    <loc>/categories/r/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/hugo-now-ui/tags/r-markdown/</loc>
+    <loc>/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/hugo-now-ui/tags/regression/</loc>
+    <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/hugo-now-ui/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/hugo-now-ui/landing/</loc>
+    <loc>/landing/</loc>
   </url>
   
   <url>
-    <loc>/hugo-now-ui/template/</loc>
+    <loc>/template/</loc>
   </url>
   
 </urlset>
