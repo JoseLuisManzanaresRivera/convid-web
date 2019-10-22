@@ -1,7 +1,7 @@
 theme = "hugo-now-ui"
 baseurl = "https://sochigeo2019.netlify.com"
 languageCode = "en-us"
-title = "Now UI Kit"
+title = "SOCHIGEO 2019"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
@@ -59,12 +59,12 @@ publishDir = "./public"
 [[menu.footer]]
     identifier = "twitter"
     pre = "<i class='fa fa-twitter'></i>"
-    url = "https://twitter.com/cboettig"
+    url = "https://twitter.com/JLManzanaresR"
     weight = 1
 [[menu.footer]]
     identifier = "github"
     pre = "<i class='fa fa-github'></i>"
-    url = "https://github.com/cboettig"
+    url = ""
     weight = 2
 [[menu.footer]]
     identifier = "copyright"
@@ -73,10 +73,9 @@ publishDir = "./public"
     url = "https://spdx.org/licenses/MIT"
     weight = 3
 
-
 [params]
     background = "/img/bg11.jpg"
-    tint = "orange"
+    tint = "green"
     custom_css = ["css/highlight.min.css"]
     custom_js = []
     date_format = "Mon, Jan 2, 2006"
