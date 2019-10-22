@@ -17,7 +17,7 @@ publishDir = "../private"
     pre = "<i class='now-ui-icons design_app'></i>"
     weight = 1
 [[menu.main]]
-    name = "Landing"
+    name = "Tema"
     url = "/landing/"
     pre = "<i class='now-ui-icons business_bank'></i>"
     weight = 1
