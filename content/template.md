@@ -12,7 +12,7 @@ Colocar aquillo marae de
 la pagina...
 
 ```r
-## Look, a code block!
+## Look, a code bl
 library(tidyverse)
 1 + 1+888888
 ```
