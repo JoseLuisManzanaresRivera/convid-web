@@ -1,5 +1,5 @@
 theme = "hugo-now-ui"
-baseurl = "https://temuco2019.netlify.com"
+baseurl = "https://sochogeo2019.netlify.com"
 languageCode = "en-us"
 title = "Now UI Kit"
 googleAnalytics = ""
