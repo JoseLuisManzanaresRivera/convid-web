@@ -14,12 +14,12 @@ publishDir = "./public"
 [[menu.main]]
     name = "Components"
     url = "/components/"
-    pre = "<i class='now-ui-icons design_app'></i>"
+    pre = "<i class='now-ui-icons files_single-copy-04'></i>"
     weight = 1
 [[menu.main]]
-    name = "Tema"
+    name = "Proyecto"
     url = "/landing/"
-    pre = "<i class='now-ui-icons business_bank'></i>"
+    pre = "<i class='now-ui-icons education_paper'></i>"
     weight = 1
 [[menu.main]]
     name = "Profile"
@@ -28,33 +28,33 @@ publishDir = "./public"
     weight = 2
 [[menu.main]]
     name = "Signup"
-    pre = "<i class='now-ui-icons clothes_tie-bow'></i>"
+    pre = "<i class='now-ui-icons gestures_tap-01'></i>"
     url = "/login/"
     weight = 3
 [[menu.main]]
-    name = "Dropdown"
-    pre = "<i class='now-ui-icons ui-1_settings-gear-63'></i>"
+    name = "Analysis"
+    pre = "<i class='now-ui-icons design_bullet-list-67'></i>"
     url = "#"
     weight = 4
-    identifier = "dropdown"
+    identifier = "Analysis"
 [[menu.main]]
     name = "Template"
     pre = "<i class='now-ui-icons files_paper'></i>"
     url = "/template/"
     weight = 1
-    parent = "dropdown"
+    parent = "Analysis"
 [[menu.main]]
-    name = "Posts"
+    name = "Estructura"
     pre = "<i class='now-ui-icons ui-1_calendar-60'></i>"
-    url = "/post/"
+    url = "/Estructura/"
     weight = 2
-    parent = "dropdown"
+    parent = "Analysis"
 [[menu.main]]
     name = "Tags"
     pre = "<i class='now-ui-icons shopping_tag-content'></i>"
     url = "/tags/"
     weight = 2
-    parent = "dropdown"    
+    parent = "Analysis"    
     
 [[menu.footer]]
     identifier = "twitter"
