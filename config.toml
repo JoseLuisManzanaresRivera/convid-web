@@ -28,9 +28,9 @@ publishDir = "./public"
     weight = 2
     identifier = "Analysis"
 [[menu.main]]
-    name = "Template"
+    name = "Estudios previos"
     pre = "<i class='now-ui-icons files_paper'></i>"
-    url = "/template/"
+    url = "/previos/"
     weight = 1
     parent = "Analysis"
 [[menu.main]]

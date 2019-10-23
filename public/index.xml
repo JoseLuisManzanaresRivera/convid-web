@@ -90,14 +90,12 @@ DefaultPrimaryInfoSuccessWarningDangerNeutralLinksDefaultPrimaryInfo
     </item>
     
     <item>
-      <title>Write the best title for your page.</title>
-      <link>/template/</link>
+      <title>¿Por qué es importante esta región?</title>
+      <link>/previos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/template/</guid>
-      <description>Colocar aquillo ae de raspo esss
-la pagina&amp;hellip;
-## Look, a code bl library(tidyverse) 1 + 1+888888  </description>
+      <guid>/previos/</guid>
+      <description>La región del valle de Guadalupe ha sido objeto de extensa documentación dada la importancia que representa. Desde la perspectiva histórica una corriente prolífica de estudios ha documentado con detalle la construcción de la identidad del imperio del vino en México (Clavigero, 1970; Covarrubias &amp;amp; Thach, 2015; Jordán, 2001; Vargas &amp;amp; Ibarra, 2015). Por otro lado la perspectiva cultural que envuelve a la viticultura es un rasgo especialmente abordado por la literatura especializada (Villa-Sánchez, 2005) y fundamentalmente investigaciones desde la vertiente económica demuestran su importancia como una actividad para el desarrollo local (Sánchez, 2006; Badán et al.</description>
     </item>
     
   </channel>
