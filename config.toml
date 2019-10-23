@@ -34,9 +34,9 @@ publishDir = "./public"
     weight = 1
     parent = "Analysis"
 [[menu.main]]
-    name = "Estructura"
+    name = "Metodología"
     pre = "<i class='now-ui-icons ui-1_calendar-60'></i>"
-    url = "/Estructura/"
+    url = "/Metodología/"
     weight = 2
     parent = "Analysis"
 [[menu.main]]
