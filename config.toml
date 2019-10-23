@@ -3,7 +3,7 @@ baseurl = "https://sochigeo2019.netlify.com"
 languageCode = "en-us"
 title = "SOCHIGEO 2019"
 googleAnalytics = ""
-disqusShortname = ""
+disqusShortname = "@joseluismanzanaresrivera"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 #enableGitInfo = true
 publishDir = "./public"
@@ -65,7 +65,7 @@ publishDir = "./public"
 [[menu.footer]]
     identifier = "github"
     pre = "<i class='fa fa-github'></i>"
-    url = ""
+    url = "#jlm"
     weight = 2
 [[menu.footer]]
     identifier = "copyright"
