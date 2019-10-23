@@ -17,7 +17,7 @@ publishDir = "./public"
     pre = "<i class='now-ui-icons files_single-copy-04'></i>"
     weight = 1
 [[menu.main]]
-    name = "Proyecto"
+    name = "Introducción"
     url = "/landing/"
     pre = "<i class='now-ui-icons education_paper'></i>"
     weight = 1
