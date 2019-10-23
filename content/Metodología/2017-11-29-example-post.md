@@ -3,8 +3,8 @@ author: Carl Boettiger
 categories:
 - r
 - hugo
-date: "2017-11-29"
-image: img/bg4.jpg
+date: "2019-11-12"
+image: img/panoramaVG.jpg
 slug: IVCAS
 tags:
 - example
