@@ -14,9 +14,9 @@ title: Índice de volumen concesionado de agua subterránea.
 
 El análisis se organiza en dos etapas, la primera se basa en el estudio de la intensidad en el uso de los recursos hídricos subterráneos para lo cual se consideran los **48 acuíferos de la entidad** con énfasis en los acuíferos en los que se ubican los valles vitivinícolas.
 
-En esta etapa se calcula el índice de volumen concesionado de agua subterránea **(IVCAS)**, un indicador que ha sido empleado previamente por estudios especializados sobre utilización de recursos hídricos en el país **(Manzanares-Rivera, 2016)** que tiene el propósito de capturar el grado de presión desde una perspectiva de sustentabilidad ya que contrasta el volumen concesionado respecto a la capacidad de recarga del acuífero. 
+En esta etapa se calcula el índice de volumen concesionado de agua subterránea **(IVCAS)**, un indicador que ha sido empleado previamente por estudios especializados sobre utilización de recursos hídricos en el país [Manzanares-Rivera, 2016](https://revistas.javeriana.edu.co/index.php/desarrolloRural/issue/view/967)  que tiene el propósito de capturar el grado de presión desde una perspectiva de sustentabilidad ya que contrasta el volumen concesionado respecto a la capacidad de recarga del acuífero. 
 
-Es un indicador que se basa en información oficial considerando los parámetros que se definen en el **artículo 231 de la Ley Federal de derechos**, mismos que están disponibles a través del registro público de derechos de Agua (REPDA). 
+Es un indicador que se basa en información oficial considerando los parámetros que se definen en el **artículo 231 de la Ley Federal de derechos**, mismos que están disponibles a través del registro público de derechos de Agua [REPDA](https://www.gob.mx/conagua/acciones-y-programas/registro-publico-de-derechos-de-agua-repda-55190). 
 
 Se define de la siguiente manera:
 
