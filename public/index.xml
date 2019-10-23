@@ -23,10 +23,10 @@ En esta etapa se calcula el índice de volumen concesionado de agua subterránea
     
     <item>
       <title>Modelado hidrológico</title>
-      <link>/metodolog%C3%ADa/2016-12-30-hello-markdown/</link>
+      <link>/metodolog%C3%ADa/2016-10-10-modelado-hidrol%C3%B3gico/</link>
       <pubDate>Thu, 10 Oct 2019 21:49:57 -0700</pubDate>
       
-      <guid>/metodolog%C3%ADa/2016-12-30-hello-markdown/</guid>
+      <guid>/metodolog%C3%ADa/2016-10-10-modelado-hidrol%C3%B3gico/</guid>
       <description>En esta etapa se aplican herramientas de modelado hidrológico para construir la red de drenaje natural en la región, una estimación de interés para identificar las principales corrientes superficiales por las que fluye el recurso y los rasgos que definen los parámetros de recarga de los acuíferos, así como factores potenciales de contaminación por el arrastre de sustancias empleadas en la actividad agrícola intensiva como los fertilizantes. Para este propósito se emplea como fuente primaria el modelo digital de elevación con resolución de 15 metros por pixel Continuo de Elevaciones Mexicano, (INEGI, 2019).</description>
     </item>
     
@@ -82,10 +82,10 @@ DefaultPrimaryInfoSuccessWarningDangerNeutralLinksDefaultPrimaryInfo
     
     <item>
       <title>Retos para la producción vitivinícola en la región norte de Baja California.</title>
-      <link>/landing/</link>
+      <link>/intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/landing/</guid>
+      <guid>/intro/</guid>
       <description>El valle de GuadalupeLos valles vitivinícolas de Guadalupe, Ojos Negros, San Vicente y Santo Tomás, ubicados en una franja entre los 32° 08´ 23´´ y 31° 09´ 53´´ de latitud Norte, en el estado fronterizo de Baja California conforman la principal región vinícola de México con una superficie de 3,910 hectáreas dedicada al cultivo de la vid industrial equivalente al 51% de la superficie cosechada total del país durante el ciclo 2018.</description>
     </item>
     
