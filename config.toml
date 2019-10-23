@@ -18,7 +18,7 @@ publishDir = "./public"
     weight = 1
 [[menu.main]]
     name = "Introducción"
-    url = "/landing/"
+    url = "/Intro/"
     pre = "<i class='now-ui-icons education_paper'></i>"
     weight = 1
 [[menu.main]]
