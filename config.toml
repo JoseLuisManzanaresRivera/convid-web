@@ -12,8 +12,8 @@ publishDir = "./public"
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "Components"
-    url = "/components/"
+    name = "Resultados"
+    url = "/resultados/"
     pre = "<i class='now-ui-icons files_single-copy-04'></i>"
     weight = 1
 [[menu.main]]
