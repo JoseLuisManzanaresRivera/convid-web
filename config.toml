@@ -11,11 +11,7 @@ publishDir = "./public"
 [permalinks]
     post = "/:year/:month/:day/:slug/"
 
-[[menu.main]]
-    name = "Resultados"
-    url = "/resultados/"
-    pre = "<i class='now-ui-icons files_single-copy-04'></i>"
-    weight = 1
+
 [[menu.main]]
     name = "Introducción"
     url = "/Intro/"
@@ -44,17 +40,22 @@ publishDir = "./public"
     pre = "<i class='now-ui-icons shopping_tag-content'></i>"
     url = "/tags/"
     weight = 2
-    parent = "Analysis"    
+    parent = "Analysis"  
+[[menu.main]]
+    name = "Resultados"
+    url = "/resultados/"
+    pre = "<i class='now-ui-icons files_single-copy-04'></i>"
+    weight = 3    
 [[menu.main]]
     name = "Signup"
     pre = "<i class='now-ui-icons gestures_tap-01'></i>"
     url = "/login/"
-    weight = 3
+    weight = 4
 [[menu.main]]
     name = "Profile"
     url = "/profile/"
     pre = "<i class='now-ui-icons users_single-02'></i>"
-    weight = 4
+    weight = 5
     
     
 [[menu.footer]]
