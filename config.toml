@@ -1,7 +1,7 @@
 theme = "hugo-now-ui"
 baseurl = "https://sochigeo2019.netlify.com"
 languageCode = "en-us"
-title = "SOCHIGEO 2019"
+title = "DEUMA 2021"
 googleAnalytics = ""
 disqusShortname = "@joseluismanzanaresrivera"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
